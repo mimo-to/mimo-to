@@ -2,11 +2,9 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=CSE+Student+%40+VIT+Bhopal;AI%2FML+Explorer;Chrome+Extension+Developer;Open+Source+Contributor)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=AI%2FML+Explorer;Open+Source+Contributor)](https://git.io/typing-svg)
   
-  **Collecting runtime errors like trading cards since 2024** 🎯
-  
-  *Currently debugging life at 2 AM and pretending it's productive*
+  **Currently don't know what to do** 🎯
   
 </div>
 
@@ -15,13 +13,8 @@
 ## 🧠 Current Mission
 ```typescript
 const mimo: Developer = {
-    status: "Building the future, one commit at a time",
-    location: "Bhopal, India 🇮🇳",
-    targets: ["🇨🇦 Canada", "🇯🇵 Japan"],
-    currentlyWorking: ["InterviewAce AI", "Restaurant Web App", "Tab Time Tracker"],
-    learningPath: ["AI/ML", "CS50", "Computational Physics", "LeetCode Grind"],
-    sleepSchedule: "02:00 → 09:20 (Optimized for debugging)",
-    funFact: "I name my variables after snacks and once cried over a segfault"
+    status: "Sleeping",
+    currentlyWorking: ["InterviewAce AI", "Parleyon", ],
 };
 ```
 
@@ -125,23 +118,6 @@ const mimo: Developer = {
   
 </div>
 
-## 🎯 Current Status
-
-```python
-# mimo's daily routine
-def life_as_coder():
-    while not graduated:
-        wake_up(at="09:20")
-        code(languages=["TypeScript", "Python"])
-        debug(until="02:00")
-        dream(about="Canada & Japan")
-        
-        if frustrated:
-            blame_semicolons()
-        else:
-            push_to_github()
-    
-    return "Ready for world domination! 🌍"
 ```
 
 ## 🌐 Connect & Collaborate
@@ -167,10 +143,9 @@ def life_as_coder():
 ## 💡 Fun Facts & Easter Eggs
 
 - 🎮 **Favorite debugging technique**: Rubber duck with a CS degree
-- ⚡ **Superpower**: Converting caffeine into code at 2 AM
-- 🧠 **Philosophy**: "Code is poetry, bugs are typos"
-- 🎯 **Goals**: Build the next unicorn from my hostel room
-- 🔥 **Secret**: My commit messages are more creative than my variable names
+- ⚡ **Superpower**: Research ig when sleeping
+- 🎯 **Goals**: to sleep 
+- 🔥 **Secret**: i too don't know
 
 ---
 
@@ -186,8 +161,5 @@ def life_as_coder():
 
 <!-- 
 🚀 Pro Tips for fellow developers:
-- Always backup your backup's backup
-- When in doubt, add more console.log()
-- Stack Overflow is not cheating, it's research
-- Sleep is overrated (just kidding, please sleep)
+- Sleep is overrated 
 -->
