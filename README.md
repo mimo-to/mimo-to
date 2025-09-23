@@ -145,7 +145,7 @@
   
   **"The best error message is the one that never shows up."** - Thomas Fuchs
   
-  ![Visitor Count](https://visitcount.itsvg.in/api?id=mimo-to&icon=3&color=3)
+
   
   ⭐ **From [mimo-to](https://github.com/mimo-to)** with lots of ☕ and occasional 😴
   
