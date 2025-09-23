@@ -158,9 +158,3 @@
 🚀 Pro Tips for fellow developers:
 - Sleep is overrated 
 -->
-</div>
-
-<!-- 
-🚀 Pro Tips for fellow developers:
-- Sleep is overrated 
--->
