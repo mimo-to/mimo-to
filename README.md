@@ -6,10 +6,10 @@
   
   **Sleeping while not sleeping** 🎯
   
-  
 </div>
 
 ---
+
 
 
 ## 🛠️ Tech Arsenal
@@ -88,11 +88,11 @@
 
 <div align="center">
 
-| 🔥 **InterviewAce AI** | 🕒 **Tab Time Tracker** | 💰 **Expense Tracker** |
+| 🚀 **Parleyon** | 🔥 **InterviewAce AI** | 🕒 **Tab Time Tracker** |
 |:---:|:---:|:---:|
-| AI-powered technical interview practice | Chrome extension for productivity | Python CLI for expense management |
-| ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Firebase](https://img.shields.io/badge/-Firebase-FFA000?style=flat-square&logo=firebase&logoColor=white) | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Chrome](https://img.shields.io/badge/-Chrome%20Extension-4285F4?style=flat-square&logo=googlechrome&logoColor=white) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![CSV](https://img.shields.io/badge/-Data%20Analysis-FF6B35?style=flat-square) |
-| ⭐ **1 star** | 🚀 **Manifest V3** | 📊 **MIT Licensed** |
+| Modern Next.js web application | AI-powered technical interview practice | Chrome extension for productivity |
+| ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) | ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Firebase](https://img.shields.io/badge/-Firebase-FFA000?style=flat-square&logo=firebase&logoColor=white) | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Chrome](https://img.shields.io/badge/-Chrome%20Extension-4285F4?style=flat-square&logo=googlechrome&logoColor=white) |
+| ⚡ **Full Stack** | ⭐ **1 star** | 🚀 **Manifest V3** |
 
 </div>
 
@@ -100,17 +100,15 @@
 
 <div align="center">
   
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mimo-to&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mimo-to&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mimo-to&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
   
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mimo-to&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF)
   
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mimo-to&theme=radical&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B35&area=true&hide_border=true)
+  
 </div>
 
-<div align="center">
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mimo-to&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)
-  
-</div>
 
 
 ## 🌐 Connect & Collaborate
@@ -137,18 +135,29 @@
 
 - 🎮 **Favorite debugging technique**: Rubber duck with a CS degree
 - ⚡ **Superpower**: Research while sleeping 
-- 🔥 **Secret**: I too dont know 
+- 🔥 **Secret**: I too don't know
+
+<div align="center">
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  
+</div>
 
 ---
 
 <div align="center">
   
-  **"The best error message is the one that never shows up."** - Thomas Fuchs
-  
-
+  ![Visitor Count](https://visitcount.itsvg.in/api?id=mimo-to&icon=3&color=3)
   
   ⭐ **From [mimo-to](https://github.com/mimo-to)** with lots of ☕ and occasional 😴
   
+</div>
+
+
+<!-- 
+🚀 Pro Tips for fellow developers:
+- Sleep is overrated 
+-->
 </div>
 
 <!-- 
