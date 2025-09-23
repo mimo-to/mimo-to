@@ -148,11 +148,11 @@
 <div align="center">
 🚀 Pro Tips for fellow developers:
 
-- Sleep is overrated 
+ Sleep is overrated 
 
   
   
-⭐ **From [mimo-to](https://github.com/mimo-to)** with lots of ☕ and occasional 😴
+ ⭐ **From [mimo-to](https://github.com/mimo-to)** with lots of ☕ and occasional 😴
 
   
 <!-- 
