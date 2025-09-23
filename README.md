@@ -136,7 +136,7 @@
 ## 💡 Fun Facts & Easter Eggs
 
 - 🎮 **Favorite debugging technique**: Rubber duck with a CS degree
-- ⚡ **Superpower**: reaserch while sleeping 
+- ⚡ **Superpower**: Research while sleeping 
 - 🔥 **Secret**: I too dont know 
 
 ---
