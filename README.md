@@ -4,7 +4,7 @@
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=AI%2FML+Explorer;Full+Stack+Developer;Open+Source+Contributor)](https://git.io/typing-svg)
   
-  **Sleeping while not sleeping** 🎯
+  **Cravings** 🎯
   
 </div>
 
