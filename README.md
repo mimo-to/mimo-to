@@ -1,4 +1,4 @@
-# 🚀 Mimo | Full-Stack Developer & AI Enthusiast
+# 🚀 Mimo-to | Rounak Hati 
 
 <div align="center">
   
