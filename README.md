@@ -1,4 +1,4 @@
-# 🚀 Mimo-to | Rounak Hati 
+# 🚀 Mimo-to 
 
 <div align="center">
   
