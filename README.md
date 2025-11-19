@@ -131,11 +131,6 @@
   
 </div>
 
-## 💡 Fun Facts & Easter Eggs
-
-- 🎮 **Favorite debugging technique**: Rubber duck with a CS degree
-- ⚡ **Superpower**: Research while sleeping 
-- 🔥 **Secret**: I too don't know
 
 <div align="center">
   
