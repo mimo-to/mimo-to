@@ -141,7 +141,7 @@
 ---
 
 <div align="center">
-🚀 Pro Tips for fellow developers:
+🚀 Tips for fellow developers:
 
  Sleep is overrated 
 
