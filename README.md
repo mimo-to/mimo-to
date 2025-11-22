@@ -122,13 +122,6 @@
 
 </div>
 
-## 🏆 Achievement Showcase
-
-<div align="center">
-  
-  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mimo-to&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)
-  
-</div>
 
 <div align="center">
   
