@@ -1,16 +1,6 @@
-# 🚀 Mimo-to 
+#  Mimo-to 
 
-<div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=AI%2FML+Enthusiast;Full+Stack+Developer;Open+Source+Contributor;Java+System+Manager)](https://git.io/typing-svg)
-  
-  **Cravings** 🎯
-  
-</div>
 
----
-
-## 🛠️ Tech Arsenal
 
 <details>
 <summary><b>🎯 Languages & Core</b></summary>
@@ -132,11 +122,10 @@
 ---
 
 <div align="center">
-🚀 Tips for fellow developers:
 
  Sleep is overrated 
 
   
- ⭐ **From [mimo-to](https://github.com/mimo-to)** with lots of ☕ and occasional 😴
+ ⭐ **From [mimo-to](https://github.com/mimo-to)**
   
 </div>
