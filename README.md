@@ -91,10 +91,9 @@
 
 <div align="center">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mimo-to&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mimo-to&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
+
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mimo-to&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF)
+
   
   ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mimo-to&theme=radical&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B35&area=true&hide_border=true)
   
@@ -126,6 +125,6 @@
  Sleep is overrated 
 
   
- ⭐ **From [mimo-to](https://github.com/mimo-to)**
+   **From [mimo-to](https://github.com/mimo-to)**
   
 </div>
