@@ -1,128 +1,122 @@
-#  Mimo-to 
-
-
-
-<details>
-<summary><b>🎯 Languages & Core</b></summary>
-<br>
-
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-</details>
-
-<details>
-<summary><b>⚡ Frontend & UI</b></summary>
-<br>
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Radix UI](https://img.shields.io/badge/Radix%20UI-161618?style=for-the-badge&logo=radix-ui&logoColor=white)
-
-</details>
-
-<details>
-<summary><b>🔥 Backend & APIs</b></summary>
-<br>
-
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=for-the-badge&logo=trpc&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-</details>
-
-<details>
-<summary><b>🗄️ Databases</b></summary>
-<br>
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405e?style=for-the-badge&logo=sqlite&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
-
-</details>
-
-<details>
-<summary><b>☁️ Cloud & DevOps</b></summary>
-<br>
-
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</details>
-
-<details>
-<summary><b>🤖 AI/ML & Data Science</b></summary>
-<br>
-
-![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-
-</details>
-
-## 🏆 Featured Projects
-
 <div align="center">
+  
+# Hey, I'm Rounak 👋
 
-| 🚀 **Parleyon** | 🔥 **InterviewAce AI** | 🛠️ **RevPeek** |
-|:---:|:---:|:---:|
-| Modern T3-Stack Web App | AI-Powered Interview Coach | Java CLI for Git Insights |
-| ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![tRPC](https://img.shields.io/badge/-tRPC-2596BE?style=flat-square&logo=trpc&logoColor=white) ![Drizzle](https://img.shields.io/badge/-Drizzle-C5F74F?style=flat-square&logo=drizzle&logoColor=black) | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=flat-square&logo=google%20gemini&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFA000?style=flat-square&logo=firebase&logoColor=white) | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Git](https://img.shields.io/badge/-JGit-F05032?style=flat-square&logo=git&logoColor=white) ![CLI](https://img.shields.io/badge/-CLI-4D4D4D?style=flat-square&logo=gnubash&logoColor=white) |
-| [View Repo](https://github.com/mimo-to/parleyon) | [View Repo](https://github.com/mimo-to/interviewace) | [View Repo](https://github.com/mimo-to/revpeek) |
+**Building tools that solve real problems**  
+First-year Computer Science student crafting full-stack applications, developer tools, and AI-powered solutions
+
+[Email](mailto:rounakhati18@gmail.com) • [X/Twitter](https://x.com/_mimo_to) • [Reddit](https://www.reddit.com/user/MIMO_216/)
 
 </div>
 
-## 📊 GitHub Analytics
+---
 
-<div align="center">
-  
+## What I Build
 
-  
+I focus on creating practical software that bridges the gap between complex systems and user needs. Whether it's analyzing Git repositories from the command line, visualizing industrial data, or structuring development projects with AI assistance, I believe in building tools that actually get used.
 
-  
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mimo-to&theme=radical&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B35&area=true&hide_border=true)
-  
-</div>
+Currently working on full-stack web applications, terminal-based developer tools, and exploring the intersection of AI and traditional software engineering.
 
-## 🌐 Connect & Collaborate
+---
 
-<div align="center">
+## Featured Projects
 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white&style=for-the-badge)](https://https://x.com/_mimo_to)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:rounakhati18@gmail.com)
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white&style=for-the-badge)](https://www.reddit.com/user/MIMO_216/)
+### 🔍 RevPeek
+**Terminal-First Git Analytics**
 
-</div>
+A zero-config CLI tool that transforms Git commit history into actionable insights—no servers, no setup, just instant analytics in your terminal.
 
+```bash
+curl -sL https://github.com/mimo-to/revpeek/releases/latest/download/revpeek.jar -o revpeek.jar && java -jar revpeek.jar
+```
 
-<div align="center">
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-  
-</div>
+**Tech:** Java 17, JGit, ASCII Charts  
+**Why it matters:** 50+ contributors use it for instant repository health checks. Processes years of commit history in under 2 seconds.
+
+[View Repository →](https://github.com/mimo-to/revpeek)
+
+---
+
+### ⚗️ Chemical Equipment Parameter Visualizer
+**Industrial Analytics Platform**
+
+A production-grade system for ingesting, processing, and visualizing chemical process data with deterministic server-side calculations and multi-client architecture.
+
+**Tech:** Django REST, React, PyQt5, Pandas  
+**Why it matters:** Handles 10MB+ datasets with sub-second analysis. Supports web and desktop clients from a single backend.
+
+[View Repository →](https://github.com/mimo-to/Chemical-Equipment-Parameter-Visualizer) • [Live Demo →](https://chemical-equipment-parameter-visual-nu.vercel.app/)
+
+---
+
+### 🗺️ DrishtiMap
+**AI-Powered Project Planning Platform**
+
+Strategic framework tool that transforms project ideas into structured plans using the Logical Framework Approach (LFA), enhanced with AI-powered suggestions and visual diagrams.
+
+**Tech:** React, Node.js, MongoDB, Gemini AI, Mermaid  
+**Why it matters:** Automates 80% of grant proposal planning. Generates comprehensive research reports with 10+ visual diagrams.
+
+[View Repository →](https://github.com/mimo-to/drishtimap)
+
+---
+
+## Tech Stack
+
+I work with technologies that prioritize both developer experience and production reliability:
+
+**Languages & Core**  
+TypeScript • JavaScript • Java • Python • C • C++
+
+**Frontend**  
+React • Next.js • Vue.js • Tailwind CSS • Vite • Radix UI
+
+**Backend & APIs**  
+Node.js • Express.js • tRPC • FastAPI • Flask • Django
+
+**Databases & ORM**  
+PostgreSQL • MongoDB • MySQL • SQLite • Supabase • Drizzle ORM
+
+**Cloud & DevOps**  
+Firebase • Google Cloud • Vercel • Git
+
+**AI/ML**  
+Google Gemini • NumPy • Pandas • Matplotlib
+
+---
+
+## Other Projects Worth Checking Out
+
+**[InterviewAce AI](https://github.com/mimo-to/interviewace)** – AI interview coach with speech-to-text evaluation  
+**[Parleyon](https://github.com/mimo-to/parleyon)** – Modern T3-Stack web application  
+**[Autonomous Delivery Agent](https://github.com/mimo-to/Autonomous-Delivery-Agent)** – Pathfinding algorithms and dynamic replanning research
+
+---
+
+## Current Focus
+
+- Building production-ready full-stack applications
+- Contributing to open-source developer tools
+- Exploring AI integration patterns in traditional software
+- Preparing for international opportunities (Canada/Japan)
+
+---
+
+## Let's Build Something
+
+I'm open to collaborating on:
+- Developer productivity tools
+- Full-stack web applications
+- AI-powered automation
+- Open-source contributions
+
+**Reach out:** [rounakhati18@gmail.com](mailto:rounakhati18@gmail.com)
 
 ---
 
 <div align="center">
 
- Sleep is overrated 
+*Crafted with intention, not automation*  
+**From [mimo-to](https://github.com/mimo-to) with ☕**
 
-  
-   **From [mimo-to](https://github.com/mimo-to)**
-  
 </div>
