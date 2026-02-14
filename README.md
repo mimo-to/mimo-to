@@ -1,3 +1,5 @@
+<div align="center">
+
 # Mimo-to
 
 **20M | Full-Stack Developer**
@@ -6,13 +8,21 @@ Building developer tools, web applications, and AI-powered systems.
 
 [Email](mailto:rounakhati18@gmail.com) • [X/Twitter](https://x.com/_mimo_to) • [Reddit](https://www.reddit.com/user/MIMO_216/)
 
+</div>
+
 ---
+
+<div align="center">
 
 ## What I Build
 
 Full-stack applications, CLI tools, and domain-specific platforms.
 
+</div>
+
 ---
+
+## Tech Stack
 
 <details>
 <summary><b>Languages & Core</b></summary>
@@ -147,6 +157,8 @@ Built with React, Node.js, MongoDB, and Gemini AI.
 
 ---
 
+<div align="center">
+
 ## Connect
 
 Open to collaborating on developer tools, full-stack applications, and open-source projects.
@@ -155,8 +167,12 @@ Open to collaborating on developer tools, full-stack applications, and open-sour
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:rounakhati18@gmail.com)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white&style=for-the-badge)](https://www.reddit.com/user/MIMO_216/)
 
+</div>
+
 ---
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+  <br>
+  <sub>From <a href="https://github.com/mimo-to">mimo-to</a></sub>
 </div>
