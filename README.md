@@ -1,11 +1,21 @@
-#  Mimo-to 
+# Mimo-to
 
-**20M | Building full-stack apps, developer tools, and AI-powered systems**
+**20M | Full-Stack Developer**
+
+Building developer tools, web applications, and AI-powered systems.
+
+[Email](mailto:rounakhati18@gmail.com) • [X/Twitter](https://x.com/_mimo_to) • [Reddit](https://www.reddit.com/user/MIMO_216/)
+
+---
+
+## What I Build
+
+Full-stack applications, CLI tools, and domain-specific platforms.
 
 ---
 
 <details>
-<summary><b>🎯 Languages & Core</b></summary>
+<summary><b>Languages & Core</b></summary>
 <br>
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -18,21 +28,21 @@
 </details>
 
 <details>
-<summary><b>⚡ Frontend & UI</b></summary>
+<summary><b>Frontend</b></summary>
 <br>
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Radix UI](https://img.shields.io/badge/Radix%20UI-161618?style=for-the-badge&logo=radix-ui&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 </details>
 
 <details>
-<summary><b>🔥 Backend & APIs</b></summary>
+<summary><b>Backend & APIs</b></summary>
 <br>
 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -45,7 +55,7 @@
 </details>
 
 <details>
-<summary><b>🗄️ Databases</b></summary>
+<summary><b>Databases</b></summary>
 <br>
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -58,7 +68,7 @@
 </details>
 
 <details>
-<summary><b>☁️ Cloud & DevOps</b></summary>
+<summary><b>Cloud & DevOps</b></summary>
 <br>
 
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
@@ -70,7 +80,7 @@
 </details>
 
 <details>
-<summary><b>🤖 AI/ML & Data</b></summary>
+<summary><b>AI/ML & Data</b></summary>
 <br>
 
 ![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
@@ -80,34 +90,54 @@
 
 </details>
 
-<details>
-<summary><b>🛠️ Tools & Others</b></summary>
-<br>
+---
 
-![PyQt5](https://img.shields.io/badge/PyQt5-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-![JGit](https://img.shields.io/badge/JGit-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=react&logoColor=white)
+## Featured Projects
 
-</details>
+### [RevPeek](https://github.com/mimo-to/revpeek)
+**Git Analytics CLI Tool**
+
+Terminal-based tool that analyzes Git repositories. Shows contributor stats, activity patterns, and file distributions with zero setup.
+
+Built with Java and JGit. Cross-platform.
+
+[View Repository](https://github.com/mimo-to/revpeek)
 
 ---
 
-## 🏆 Featured Projects
+### [Chemical Equipment Parameter Visualizer](https://github.com/mimo-to/Chemical-Equipment-Parameter-Visualizer)
+**Industrial Data Platform**
 
-<div align="center">
+Web and desktop application for processing chemical equipment data. Handles CSV ingestion, server-side calculations, and generates visualizations with PDF reports.
 
-| 🔍 **RevPeek** | ⚗️ **Chemical Equipment** | 🗺️ **DrishtiMap** |
-|:---:|:---:|:---:|
-| Git Analytics CLI | Industrial Data Platform | AI Project Planning |
-| ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![JGit](https://img.shields.io/badge/-JGit-F05032?style=flat-square&logo=git&logoColor=white) | ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![PyQt5](https://img.shields.io/badge/-PyQt5-41CD52?style=flat-square&logo=qt&logoColor=white) | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) |
-| [View Repo](https://github.com/mimo-to/revpeek) | [View Repo](https://github.com/mimo-to/Chemical-Equipment-Parameter-Visualizer) • [Live →](https://chemical-equipment-parameter-visual-nu.vercel.app/) | [View Repo](https://github.com/mimo-to/drishtimap) • [Live →](https://drishtimap.com) |
+Built with Django REST, React, and PyQt5. Single backend serving multiple clients.
 
-</div>
+[View Repository](https://github.com/mimo-to/Chemical-Equipment-Parameter-Visualizer) • [Live Demo](https://chemical-equipment-parameter-visual-nu.vercel.app/)
 
 ---
 
-## 📊 GitHub Activity
+### [DrishtiMap](https://github.com/mimo-to/drishtimap)
+**AI Project Planning Platform**
+
+Platform for structuring development projects using the Logical Framework Approach (LFA). Provides AI suggestions and generates reports with diagrams.
+
+Built with React, Node.js, MongoDB, and Gemini AI.
+
+[View Repository](https://github.com/mimo-to/drishtimap) • [Live Site](https://drishtimap.com)
+
+---
+
+## Other Projects
+
+**[InterviewAce AI](https://github.com/mimo-to/interviewace)** – AI interview practice with speech-to-text evaluation
+
+**[Parleyon](https://github.com/mimo-to/parleyon)** – T3-Stack web app with tRPC and Drizzle ORM
+
+**[Autonomous Delivery Agent](https://github.com/mimo-to/Autonomous-Delivery-Agent)** – Pathfinding algorithms with dynamic replanning
+
+---
+
+## GitHub Activity
 
 <div align="center">
   
@@ -117,26 +147,16 @@
 
 ---
 
-## 🌐 Connect
+## Connect
 
-<div align="center">
+Open to collaborating on developer tools, full-stack applications, and open-source projects.
 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white&style=for-the-badge)](https://x.com/_mimo_to)
+[![X](https://img.shields.io/badge/X-000000?logo=X&logoColor=white&style=for-the-badge)](https://x.com/_mimo_to)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:rounakhati18@gmail.com)
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white&style=for-the-badge)](https://www.reddit.com/user/MIMO_216/)
-
-</div>
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white&style=for-the-badge)](https://www.reddit.com/user/MIMO_216/)
 
 ---
 
 <div align="center">
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-  
-</div>
-
-<div align="center">
-
-**From [mimo-to](https://github.com/mimo-to)**
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 </div>
