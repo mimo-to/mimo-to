@@ -133,7 +133,7 @@ Platform for structuring development projects using the Logical Framework Approa
 
 Built with React, Node.js, MongoDB, and Gemini AI.
 
-[View Repository](https://github.com/mimo-to/drishtimap) • [Live Site](https://drishtimap.com)
+[View Repository](https://github.com/mimo-to/drishtimap) • [Live Site](https://drishtimap.vercel.app/)
 
 ---
 
