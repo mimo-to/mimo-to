@@ -2,7 +2,7 @@
 
 # Mimo-to
 
-**20M | Full-Stack Developer**
+**20M | Dev**
 
 Building developer tools, web applications, and AI-powered systems.
 
@@ -163,7 +163,6 @@ Built with React, Node.js, MongoDB, and Gemini AI.
 
 Open to collaborating on developer tools, full-stack applications, and open-source projects.
 
-[![X](https://img.shields.io/badge/X-000000?logo=X&logoColor=white&style=for-the-badge)](https://x.com/_mimo_to)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:rounakhati18@gmail.com)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white&style=for-the-badge)](https://www.reddit.com/user/MIMO_216/)
 
