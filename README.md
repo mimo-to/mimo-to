@@ -6,7 +6,7 @@
 
 Building developer tools, web applications, and AI-powered systems.
 
-[Email](mailto:rounakhati18@gmail.com) • [X/Twitter](https://x.com/_mimo_to) • [Reddit](https://www.reddit.com/user/MIMO_216/)
+[Email](mailto:rounakhati18@gmail.com) • [Reddit](https://www.reddit.com/user/MIMO_216/)
 
 </div>
 
