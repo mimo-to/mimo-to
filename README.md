@@ -6,8 +6,7 @@
 
 Building developer tools, web applications, and AI-powered systems.
 
-[Email](mailto:rounakhati18@gmail.com) • [Reddit](https://www.reddit.com/user/MIMO_216/)
-
+[Email](mailto:mimoto16@protonmail.com)
 </div>
 
 ---
@@ -163,8 +162,7 @@ Built with React, Node.js, MongoDB, and Gemini AI.
 
 Open to collaborating on developer tools, full-stack applications, and open-source projects.
 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:rounakhati18@gmail.com)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white&style=for-the-badge)](https://www.reddit.com/user/MIMO_216/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:mimoto16@protonmail.com)
 
 </div>
 
