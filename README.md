@@ -1,4 +1,4 @@
-## 👋 Hi,
+## 👋 Hi, I'm mimo
 
 I'm a CSE student, usually digging into systems, reading about how things work under the hood, or tinkering with my setup until it feels right. I run Linux (Fedora), build from source, and have a strong preference for software I actually own and understand.
 
