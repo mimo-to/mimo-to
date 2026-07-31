@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm mimo
 
-I'm a CSE student, usually digging into systems, reading about how things work under the hood, or tinkering with my setup until it feels right. I run Linux (Fedora), build from source, and have a strong preference for software I actually own and understand.
+I'm a CSE student, usually digging into systems, reading about how things work under the hood, or tinkering with my setup until it feels right. I run Linux (Cachy OS), and have a strong preference for software I actually own and understand.
 
 I care about open source the way some people care about a philosophy — the freedom to inspect, modify, and redistribute. Decentralized web, owning your own data, getting off big tech infrastructure wherever possible. Not as a trend, but something I've believed in for a while.
 
